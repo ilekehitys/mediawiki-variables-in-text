@@ -11,6 +11,8 @@ and then { variable1 } again in last line
 </pre>
 The result will be as in picture below
 
+![alt text](https://github.com/ilekehitys/mediawiki-variables-in-text/blob/6acbe522c5d7fc523eb7fc5d9f34ce0ae8474fdf/generated.png)
+
 You can add as many dynamic-code-block divs in your page as you like. For this to work, the wiki administrator must add the js code to Common.js once. See the documentation link below.
 
 https://www.mediawiki.org/wiki/Adding_JavaScript_to_Wiki_Pages
