@@ -1,3 +1,5 @@
+/** Copy paste this as a content of your Common.js and save. Of course if you have already something else there you cannot just copy-paste **/
+
 $(function () {
     divs = document.getElementsByClassName('dynamic-code-block');
     for (var i = 0; i < divs.length; i++) {
